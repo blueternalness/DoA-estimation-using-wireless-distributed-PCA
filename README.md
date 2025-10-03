@@ -5,21 +5,23 @@ Wooyoung Kim
 Department of Eletrical & Computer Engineering, Seoul National University  
 wooyoung.kim365@gmail.com
 
-## About code
-This is a PoC code for DoA-estimation-using-wireless-distributed-PCA.  
-I am waiting for acceptance from KICS. More infromation wiil be updated when the paper is published.
+## Paper
+[DoA Estimation Using Wireless Distributed PCA](https://snu.elsevierpure.com/en/publications/doa-estimation-using-wireless-distributed-pca), **Wooyoung Kim**, Kyungrak Son, Wan Choi, The Journal of Korean Institute of Communications and Information Sciences, Published
 
-### Simulation pameter of the uploaded code  
+## About code
+
+This is a sample simulation code for DoA-estimation-using-wireless-distributed-PCA
+
+### Simulation parameters of the uploaded code  
+
 SNR : 4dB  
 The number of nodes : 20  
 The number of neighbor nodes for each node : 8  
 Power methode iteration : 5  
 Average consensus algorithm iteration: 20  
 
-## Paper Cover
-![Paper cover](https://user-images.githubusercontent.com/97160189/153182756-c858f0b6-ddf2-4511-9190-77958268668e.png)
-
 ### Reference
+
 [1] A. Scaglione, R. Pagliari and H. Krim, "The decentralized estimation of the sample covariance," 2008 42nd Asilomar Conference on Signals, Systems and Computers, pp. 1722-1726,  Asilomar, USA, November 2008.  
 [2]	H. S. Won, S. P. Kim, Lee, S. H. Choi, M. J. Moon, and S. Yang, “Secure principal component analysis in multiple distributed nodes,“ Security and Communication Networks, vol. 9, iss. 14, pp. 2348-2358, Sep 2016.  
 [3]	S. X. Wu, H. T. Wai, L. Li and A. Scaglione, "A Review of Distributed Algorithms for Principal Component Analysis," Proceedings of the IEEE, vol. 106, no. 8, pp. 1321-1340, Aug 2018.  
