@@ -3,7 +3,7 @@
 ## Author
 Wooyoung Kim  
 Department of Eletrical & Computer Engineering, Seoul National University  
-vhehfhvl4@gmail.com
+wooyoung.kim365@gmail.com
 
 ## About code
 This is a PoC code for DoA-estimation-using-wireless-distributed-PCA.  
